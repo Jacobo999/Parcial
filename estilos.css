@@ -1,0 +1,100 @@
+.play{
+	height: 100px;
+	width: 100px;
+	background: white;
+	border-radius:100px ;
+	font-family: Segoe Print;
+	font-size: 35px;
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-left: 10px;
+	color: black;
+	position: absolute;
+	left: 1240px;
+	padding-top: 22px;
+	padding-left: 28px;
+}
+.tema1{
+	height: 100px;
+	width: 200px;
+	background: white;
+	font-size: 35px;
+	font-family: Segoe Print;
+	color: black;
+	box-sizing: border-box;
+	padding-top: 14px;
+	padding-left: 34px;
+}
+.infot1{
+	height: 500px;
+	width: 800px;
+	background: rgb(252, 254, 253, 0.5);
+	transition-delay: 10s;
+	position: absolute;
+	left: 200px;
+	top: 140px;
+	font-family: Segoe Print;
+	display: none;
+	transition-delay: 4s;
+}
+
+.img1{
+	position: absolute;
+	left: 5px;
+}
+.cerrar1{
+	height: 100px;
+	width: 100px;
+	background: red;
+	position: absolute;
+	left: 680px;
+	top: 370px;
+	color: white;
+	font-family: Segoe Print;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding-top: 28px;
+	padding-left: 15px;
+}
+.tema2{
+	height: 100px;
+	width: 200px;
+	background: white;
+	font-size: 35px;
+	font-family: Segoe Print;
+	color: black;
+	box-sizing: border-box;
+	padding-top: 14px;
+	padding-left: 34px;
+	position: absolute;
+	top: 540px;
+	left: 1148px;
+}
+.infot2{
+	height: 500px;
+	width: 800px;
+	background: rgb(252, 254, 253, 0.5);
+	position: absolute;
+	left: 200px;
+	top: 140px;
+	font-family: Segoe Print;
+	display: none;
+}
+.cerrar2{
+	height: 100px;
+	width: 100px;
+	background: red;
+	position: absolute;
+	left: 680px;
+	top: 370px;
+	color: white;
+	font-family: Segoe Print;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding-top: 28px;
+	padding-left: 15px;
+}
+.img2{
+	position: absolute;
+	left: 5px;
+}
